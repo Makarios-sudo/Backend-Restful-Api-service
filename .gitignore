@@ -1,0 +1,7 @@
+db.sqlite3
+api/__pycache__
+authUser/__pycache__
+media
+productReview/__pycache__
+reviews/__pycache__
+reviews/migrations/__pycache__
